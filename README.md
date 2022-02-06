@@ -3,7 +3,16 @@
 <h2 align="center">Tecnologias usadas</h2>
 <p align="center">
  <a href="#tecnologias">
- Gradle, SpringBoot, PostgreSQL, java 11, Docker.</a> • 
+ Gradle, SpringBoot, PostgreSQL, java 11, Docker, Eclipse IDE.</a> • 
+</p>
+
+<h2 align="center">Banco de Dados</h2>
+<p align="center">
+ <a href="#tecnologias">
+	 O banco de dados foi pego de um projeto do GitHub:
+	 <link rel = “alternate” href = “https://github.com/chinnonsantos/sql-paises-estados-cidades” hreflang = “pt-br” />
+	 
+ </a> • 
 </p>
 
 <h4 align="center"> 
