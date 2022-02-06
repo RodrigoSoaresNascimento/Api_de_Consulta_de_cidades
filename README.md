@@ -10,9 +10,9 @@
 <p align="center">
  <a href="#tecnologias">
 	 O banco de dados foi pego de um projeto do GitHub:
-	 <link rel = “alternate” href = “https://github.com/chinnonsantos/sql-paises-estados-cidades” hreflang = “pt-br” />
+	https://github.com/chinnonsantos/sql-paises-estados-cidades
 	 
- </a> • 
+ </a> 
 </p>
 
 <h4 align="center"> 
