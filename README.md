@@ -16,7 +16,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Java Project 🚀 Em construção...  🚧
 </h4>
 
 ## Contribuindo
